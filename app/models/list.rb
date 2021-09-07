@@ -1,2 +1,3 @@
 class List < ApplicationRecord
+  
 end
